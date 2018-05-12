@@ -1,4 +1,4 @@
-Convertion to markdown of blog post:
+Markdown convertion of blog post:
 [http://codereview.blogspot.nl/2009/06/division-of-integers-by-constants.html]()
 
 ## Sunday, 21 June 2009
